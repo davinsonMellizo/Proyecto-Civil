@@ -1,0 +1,18 @@
+#container{
+    background-image: url("/assets/images/plano.jpg");
+    overflow: scroll;
+}
+#sidebar{
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.54);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.54);
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.54);
+    background-image: url("/assets/images/imgMenu.jpg");
+}
+#btnAddVentana{
+    background-image: url("/assets/images/add.png");
+    background-repeat: no-repeat;
+}
+#btnDeletePared{
+    background-image: url("/assets/images/delete.png");
+    background-repeat: no-repeat;
+}
